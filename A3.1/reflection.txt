@@ -1,0 +1,36 @@
+Welp I did it again. I was highly over ambitious.
+BUT this time I think it payed off!!
+
+Having everything on one page definitely made things a lot trickier and organization was a nightmare but Im pretty happy with how things turned out
+
+I think in the end some of my favourite features were probably the topography style effect in the banner, the video that plays on scroll and the horizontal gallery.
+
+I do like the album section I just think I devoted wayyyy too much time in trying to get the spinning on scroll to work initially as it was the first thing I experimented with when using gsap
+
+GSAP, oh gsap I have a love hate relationship with gsap
+Very helpful! Definitely! But also I spent 2 days trying to understand why nothing was working only to realize BY ACCIDENT
+that apparently when you list your script sources gsap and any js librarys have to go BEFORE your script...
+I scoured that gsap website and their forum and NOWHERE did i find this information
+you know how I figured it out?
+
+I REDID EVERYTHING FROM SCRATCH
+
+yeah did you notice how the files called A3.1 ? More realisitically this was probably liek A3.4 but its fineeeeee I worked it out. And my scouring of the gsap website actually proved to be
+quite helpful when working on other elements for the site 
+
+
+Lets see what else...
+
+I spent a lot of time in the beginning trying to find inspo cuz I couldnt decide on the vibe I wanted for the site
+originally I wanted to make a fun bright scrapbook colllage style for everything but that wouldve involved a fuckkkkkkkk ton of CSS which im not gonna lie to u i really do not like
+Javascript is sooooo much more fun and rewarding imo, CSS is just grappling with differnt layouts, pixels and percentages until you either get it or give up.
+
+But I do really vibe with the whole black white and red 
+some of my pictures and the album covers definitely ruin the aesthetic a bit but i think overall its pretty cohesive
+
+I think for my real portfolio tho I would try and go for a hybrid of this grunge vibe and the fun scrapbook. I cant be looking all emo to potential employers.
+You know my last job interview, she saw my old portfolio and she said afterwards that from my portfolio she thought I would be more "quirky" but I actually did very well in the interview
+like thank you? what does that mean??? So I guess for my next portfolio I should embrass the quirky idk
+
+Overall fun assignment I think doing the one page website definitely paid off as I will almost definitely be doing the same for my real portfolio and yeah I got a lot of ideas to put towards it
+soooo like 7/10? Annoying but rewarding and actually you get a bonus half point because this is the last assignment I have to submit before my exams yay!
